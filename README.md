@@ -12,5 +12,8 @@ Fonctionnalités
 - Filtrage des activités: Les utilisateurs peuvent filtrer les activités par catégorie.
 - Détail d'une  activité : Les utilisateurs peuvent voir les détails d'une activité en appuyant sur son image depuis la page d'acceuil.
 
-
+Firebase : 
+- 2 Collections : - Users
+                  - Activities
+                  
 
